@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<article>
+<body>
+    <table>
+        <h1>Paco van der Aar</h1>
+        <tr>
+            <h1></h1>
+            <td><img src="img/mijnphotoorange.jpg" alt="ik!"></td>
+            <td>hallo ik ben Paco van der Aar, ik ben 16 jaar oud. Ik ben geboren in ziekenhuis Haarlemmermeer rond 6 uur s octends 28-07-2008. ik doe nu software development en vind het erg interessant.</td>       
+        </tr>
+        <tr>
+            <td>ik woon in beinsdorp, venneperweg 492 met mijn vader, moeder suzje en huisdieren</td>
+            <td class="adress"><img  src="img/Screenshot 2024-09-27 163454.png" alt="ik"></td>
+        </tr>
+        <tr>
+            <td> ik game graag in mijn vrije tijd met vrienden.</td>
+            <td class="dbl"><img src="download.jpg" alt=""></td>
+        </tr>
+        <tr>
+            <td>ik kan all heel goed engels spreken en kan goed gamen</td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td> mijn top 10 games
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+             <td>
+                1. titanfall 2
+                </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>2. ghost of tsushima</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>3. undertale</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>4. minecraft</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>5. overwatch</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>6. dragonball legends</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>7. rainbow six siege</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>8. plants vs zombies</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>9. one shot</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>10. phasmophobia</td>
+        </tr>
+    </table>
+    
+
+</article>
+</body>
+</html>
